@@ -42,7 +42,7 @@
 - Implemented **OpenGL-based rendering pipeline** for real-time visuals  
 - Designed and owned the **AABB collision system**, including detection and stable resolution between dynamic entities and environments  
 
-*(You can play the game directly via the link above.)*
+*(You can download the game directly via the link above.)*
 
 ---
 
